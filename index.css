@@ -1,0 +1,11 @@
+body {
+    background-color: whitesmoke;
+}
+
+#button {
+    width: 150px;
+    height: 150px;
+    padding: 15%;
+    background-color: red;
+
+}
